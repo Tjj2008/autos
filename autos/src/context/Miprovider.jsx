@@ -7,86 +7,86 @@ export default function MiProvider({ children }) {
             id: 1,
             marca: "Peugeot",
             modelo: "208 ",
-            imagen: "https://www.peugeotplan.com.ar/pageValue/carModelDetailsImage/422/true",
+            imagen: "../src/assets/peugeot208.jpg",
           
             
         },
         {
             id: 2,
-            nombre: "Gastón Benavídez",
-            posicion: "Defensor ",
-            imagen: "../src/assets/jugadores-web_Benavidez_29-768x1332-removebg-preview.png",
+            marca: "Peugeot",
+            modelo: "308 ",
+            imagen: "../src/assets/peugeot-308.jpg",
            
            
         },
         {
             id: 3,
-            nombre: "Matías Catalán",
-            posicion: "Defensor ",
-            imagen: "../src/assets/jugadores-web_Catalan_4-768x1332-removebg-preview.png",
+            marca: "Peugeot",
+            modelo: "508 ",
+            imagen: "../src/assets/peugeot-508.avif",
             
            
         },
         {
             id: 4,
-            nombre: "Lucas Suárez",
-            posicion: "Defensor ",
-            imagen: "../src/assets/jugadores-web_Suarez_03-removebg-preview.png",
+            marca: "Peugeot",
+            modelo: "2008 ",
+            imagen: "../src/assets/peugeot2008.jpg",
             
            
         },
         {
             id: 5,
-            nombre: "Juan Portillo",
-            posicion: "Mediocampista",
-            imagen: "../src/assets/jugadores-web_Portillo_28-removebg-preview.png",
+            marca: "Peugeot",
+            modelo: "3008",
+            imagen: "../src/assets/peugeot3008.jpg",
             
            
         },
         {
             id: 6,
-            nombre: "Ulises Ortegoza",
-            posicion: "Mediocampista",
-            imagen: "../src/assets/jugadores-web_Ortegoza_30-removebg-preview.png",
+            marca: "Peugeot",
+            modelo: "5008",
+            imagen: "../src/assets/peugeot5008.jpg",
             
            
         },
         {
             id: 7,
-            nombre: "Rodrigo Villagra",
-            posicion: "Mediocampista",
-            imagen: "../src/assets/jugadores-web_Villagra_18-removebg-preview.png",
+            marca: "Peugeot",
+            modelo: "408",
+            imagen: "../src/assets/peugeot 408.jpg",
             
            
         },
         {
             id: 8,
-            nombre: "Javier Nicolás Vallejo",
-            posicion: "Delantero",
+            marca: "Javier Nicolás Vallejo",
+            modelo: "Delantero",
             imagen: "../src/assets/jugadores-web_Vallejos_20-removebg-preview.png",
             
            
         },
         {
             id: 9,
-            nombre: "Rodrigo Garro",
-            posicion: "Mediocampista",
+            marca: "Rodrigo Garro",
+            modelo: "Mediocampista",
             imagen: "../src/assets/jugadores-web_Garro_16-removebg-preview.png",
             
           
         },
         {
             id: 10,
-            nombre: "Ramón Sosa Acosta",
-            posicion: "Delantero",
+            marca: "Ramón Sosa Acosta",
+            modelo: "Delantero",
             imagen: "../src/assets/WEB_RAMON-SOSA-1-removebg-preview.png",
             
             
         },
         {
             id: 11,
-            nombre: "Lautaro Nahuel Bustos",
-            posicion: "Delantero",
+            marca: "Lautaro Nahuel Bustos",
+            modelo: "Delantero",
             imagen: "../src/assets/jugadores-web_Bustos_10-removebg-preview.png",
             
           
