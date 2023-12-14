@@ -30,7 +30,7 @@ function MyCard() {
             {autosFiltrados.map((auto) => (
                 <div key={auto.id} className="card">
                     <div className="card-content">
-                        <img className="imgCard" src={auto.imagen} alt={auto.edad} />
+                        <img className="imgCard" src={auto.imagen} alt={auto.modelo} />
                         <h2>{auto.marca}</h2>
                         <p>modelo: {auto.modelo}</p>  
                     </div>
