@@ -13,9 +13,9 @@ function Navbar() {
     <nav className="navbar">
       <div className="navbar-container">
       
-      <img src='https://1.bp.blogspot.com/-XTZt_IRapI0/YHIclsUsdoI/AAAAAAABjK8/hWjSyl0oyn4cNVoE_mfWo-0-0ng47KOMACLcBGAsYHQ/s0/Talleres%2Bde%2BCordoba256x.png'  alt="Logo" className="logo" />
+      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peugeot_Logo.svg/1865px-Peugeot_Logo.svg.png'  alt="Logo" className="logo" />
       
-      <h1 className="navbar-title">¿No encontras tu modelo?</h1>
+      <h1 className="navbar-title">Encontra tu modelo aca!</h1>
         <div className="search-container">
           <input
             type="text"

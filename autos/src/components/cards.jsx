@@ -11,13 +11,13 @@ function MyCard() {
     );
 
     function handleLike(id) {
-        const updatedJugadores = jugadores.map((auto) => {
+        const updatedAutos = autos.map((auto) => {
             if (auto.id === id) {
                 return { ...auto, likes: (auto.likes || 0) + 1 };
             }
             return auto;
         });
-        setJugadores(updatedJugadores);
+        setAutos(updatedAutos);
     }
 
     function handleDelete(id) {
@@ -30,7 +30,7 @@ function MyCard() {
             {autosFiltrados.map((auto) => (
                 <div key={auto.id} className="card">
                     <div className="card-content">
-                        <img className="imgCard" src={jugador.imagen} alt={jugador.edad} />
+                        <img className="imgCard" src={auto.imagen} alt={auto.edad} />
                         <h2>{auto.marca}</h2>
                         <p>modelo: {auto.modelo}</p>  
                     </div>

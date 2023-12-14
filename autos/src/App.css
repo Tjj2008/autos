@@ -3,7 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  color: #b16464;
+  color: hsl(0, 0%, 0%);
 }
 
 .card-container {
@@ -44,7 +44,7 @@
 .btnLike,
 .btnElim {
   color: #fff;
-  background-color: rgb(5, 23, 59);
+  background-color: rgb(10, 23, 49);
   border: none;
   padding: 10px 20px;
   border-radius: 5px;
@@ -55,7 +55,7 @@
 }
 
 .btnLike:hover {
-  background-color: #ffffff;
+  background-color: #494646;
   transform: scale(1.1);
 }
 
