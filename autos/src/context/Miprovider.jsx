@@ -157,9 +157,9 @@ export default function MiProvider({ children }) {
         },
         {
             id: 20,
-            marca: "Peugeot",
-            modelo: "408",
-            imagen: "../src/assets/peugeot_408.jpg",
+            marca: "Audi",
+            modelo: "Audi A5",
+            imagen: "../src/assets/audia5.jpg",
             
            
         },
